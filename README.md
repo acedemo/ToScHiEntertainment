@@ -1,27 +1,7 @@
-# README #
+### Welcome to ToScHi! ###
+* Established in 2016 by Bradey, Jacob, and daniel as a CSGO group which eventually gained an interest in game development.
+* We all have been gaming since we were children and are extremely motivated towards developing a game that people will enjoy playing.
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Questions? ###
  *  jacobstorek@gmail.com
