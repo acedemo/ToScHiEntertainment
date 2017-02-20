@@ -27,3 +27,4 @@ This README would normally document whatever steps are necessary to get your app
  *  jacobstorek@gmail.com
  *  Other community or team contact
  * Bradey- bradey.anderson98@gmail.com
+ * Daniel- Danielkirchhofff@gmail.com
