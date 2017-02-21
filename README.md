@@ -8,4 +8,4 @@
  * Bradey- bradey.anderson98@gmail.com
  * Daniel- Danielkirchhofff@gmail.com
  
-<image src ="Kitty.jpg"/> 
+<image src ="Kitty.jpg"> 
