@@ -10,4 +10,4 @@
  * Daniel- Danielkirchhofff@gmail.com
  
  <img src="http://www.echoecho.com/rainbow.gif">
-<img src="http://steamcommunity.com/groups/ToScHi/9523ca1336f44c3fc8cf7571419c1ea2c0a4e0c7_full
+<img src="http://www.freeimages.com/photo/helicopter-4-1570765">
