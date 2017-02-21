@@ -9,5 +9,5 @@
  * Bradey- bradey.anderson98@gmail.com
  * Daniel- Danielkirchhofff@gmail.com
  
- <img src="http://www.echoecho.com/rainbow.gif">
-<img src="http://www.freeimages.com/photo/helicopter-4-1570765">
+ <img src="http://www.freeimages.com/photo/helicopter-4-1570765.JPEG"> 
+<img src="http://www.echoecho.com/rainbow.gif"> 
