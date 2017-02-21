@@ -8,4 +8,4 @@
  * Bradey- bradey.anderson98@gmail.com
  * Daniel- Danielkirchhofff@gmail.com
  
-<img src="http://www.echoecho.com/rainbow.gif">
+
